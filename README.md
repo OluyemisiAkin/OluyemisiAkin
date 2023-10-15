@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any projects to further hone my testing skills**
 
-- 🤝 I’m looking for help with **part-time Software QA opportunities**
+- 🤝 I’m looking for **part-time Software QA opportunities including voluntary ones**
 
 - 💬 Ask me about **industrial automation, safety systems, python, javascript, software testing,**
 
